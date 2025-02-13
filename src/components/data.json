@@ -1,0 +1,155 @@
+[
+  {
+    "vehicle_type": "6-Wheeler Truck",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJfIa4AFGqoGrpUrq-owH7O-04RHP77afC0Q&s",
+    "last_maintenance_date": "2024-12-20",
+    "fuel_level": 60,
+    "running_distance": 150000,
+    "tyre_pressure": {
+      "front_left": 38,
+      "front_right": 38,
+      "middle_left": 36,
+      "middle_right": 36,
+      "rear_left": 34,
+      "rear_right": 34
+    }
+  },
+  {
+    "vehicle_type": "8-Wheeler Truck",
+    "last_maintenance_date": "2025-01-15",
+    "image": "https://s.alicdn.com/@sc04/kf/Hd0227ab45ba74f3d949fe47332caff90S.jpg",
+    "fuel_level": 45,
+    "running_distance": 210000,
+    "tyre_pressure": {
+      "front_left": 40,
+      "front_right": 40,
+      "middle_left_1": 38,
+      "middle_right_1": 38,
+      "middle_left_2": 36,
+      "middle_right_2": 36,
+      "rear_left": 34,
+      "rear_right": 34
+    }
+  },
+  {
+    "vehicle_type": "6-Wheeler Bus",
+    "image": "https://content.jdmagicbox.com/quickquotes/images_main/bs6-36-bus-801180452-fbs4xv5x.jpg?impolicy=queryparam&im=Resize=(360,360),aspect=fit",
+    "last_maintenance_date": "2024-11-10",
+    "fuel_level": 55,
+    "running_distance": 175000,
+    "tyre_pressure": {
+      "front_left": 38,
+      "front_right": 38,
+      "middle_left": 36,
+      "middle_right": 36,
+      "rear_left": 34,
+      "rear_right": 34
+    }
+  },
+  {
+    "vehicle_type": "8-Wheeler Dump Truck",
+    "last_maintenance_date": "2025-02-01",
+    "fuel_level": 30,
+    "running_distance": 195000,
+    "tyre_pressure": {
+      "front_left": 40,
+      "front_right": 40,
+      "middle_left_1": 38,
+      "middle_right_1": 38,
+      "middle_left_2": 36,
+      "middle_right_2": 36,
+      "rear_left": 34,
+      "rear_right": 34
+    }
+  },
+  {
+    "vehicle_type": "6-Wheeler Cargo Truck",
+    "last_maintenance_date": "2024-10-25",
+    "fuel_level": 70,
+    "running_distance": 135000,
+    "tyre_pressure": {
+      "front_left": 38,
+      "front_right": 38,
+      "middle_left": 36,
+      "middle_right": 36,
+      "rear_left": 34,
+      "rear_right": 34
+    }
+  },
+  {
+    "vehicle_type": "8-Wheeler Oil Tanker",
+    "last_maintenance_date": "2024-12-05",
+    "fuel_level": 25,
+    "running_distance": 225000,
+    "tyre_pressure": {
+      "front_left": 40,
+      "front_right": 40,
+      "middle_left_1": 38,
+      "middle_right_1": 38,
+      "middle_left_2": 36,
+      "middle_right_2": 36,
+      "rear_left": 34,
+      "rear_right": 34
+    }
+  },
+  {
+    "vehicle_type": "6-Wheeler Fire Truck",
+    "last_maintenance_date": "2025-01-08",
+    "fuel_level": 80,
+    "running_distance": 95000,
+    "tyre_pressure": {
+      "front_left": 38,
+      "front_right": 38,
+      "middle_left": 36,
+      "middle_right": 36,
+      "rear_left": 34,
+      "rear_right": 34
+    }
+  },
+  {
+    "vehicle_type": "8-Wheeler Cement Mixer",
+    "last_maintenance_date": "2025-01-20",
+    "fuel_level": 40,
+    "running_distance": 185000,
+    "tyre_pressure": {
+      "front_left": 40,
+      "front_right": 40,
+      "middle_left_1": 38,
+      "middle_right_1": 38,
+      "middle_left_2": 36,
+      "middle_right_2": 36,
+      "rear_left": 34,
+      "rear_right": 34
+    }
+  },
+  {
+    "vehicle_type": "6-Wheeler Delivery Truck",
+    "last_maintenance_date": "2024-12-30",
+    "fuel_level": 65,
+    "running_distance": 145000,
+    "tyre_pressure": {
+      "front_left": 38,
+      "front_right": 38,
+      "middle_left": 36,
+      "middle_right": 36,
+      "rear_left": 34,
+      "rear_right": 34
+    }
+  },
+  {
+    "vehicle_type": "8-Wheeler Flatbed Truck",
+    "last_maintenance_date": "2024-11-15",
+    "fuel_level": 55,
+    "running_distance": 200000,
+    "tyre_pressure": {
+      "front_left": 40,
+      "front_right": 40,
+      "middle_left_1": 38,
+      "middle_right_1": 38,
+      "middle_left_2": 36,
+      "middle_right_2": 36,
+      "rear_left": 34,
+      "rear_right": 34
+    }
+  }
+]
